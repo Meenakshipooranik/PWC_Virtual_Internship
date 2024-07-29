@@ -1,4 +1,4 @@
-# PWC_Virtual_Internship#
+# PWC_Virtual_Internship
 
 PWC Virtual internship by Forage
 
@@ -46,19 +46,19 @@ Some measures created were
 - % of men
   
 - % of women
-- 
+  
 - % of leavers
-- 
+  
 - % employees promoted (FY21)
-- 
+  
 - % of women promoted
-- 
+  
 - % of hires men
   
 - % of hires women
-- 
+ 
 - Average performance rating: men
-- 
+  
 - Average Performance rating: women
 
 ![image](https://github.com/user-attachments/assets/01fd5202-576c-4a32-a309-c7732599e788)
